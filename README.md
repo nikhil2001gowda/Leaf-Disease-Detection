@@ -1,2 +1,4 @@
 # Leaf-Disease-Detection
- leaf detection using image processing
+ Leaf Detection using Image Processing
+
+Use VS Code for easy Usage..
